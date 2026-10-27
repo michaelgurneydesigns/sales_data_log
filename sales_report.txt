@@ -1,0 +1,18 @@
+SALES REPORT
+=============
+Total revenue: $1,749.32
+
+Product: Widget A
+Quantity: 39
+Revenue: $779.61
+
+Product: Widget B
+Quantity: 24
+Revenue: $719.76
+
+Product: Widget C
+Quantity: 5
+Revenue: $249.95
+
+Highest revenue day: 2026-01-17
+Revenue that day: $579.80
